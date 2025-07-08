@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Email setup
 EMAIL_SENDER = "kamalakanta902@gmail.com"
-EMAIL_PASSWORD = "okcv abmo jchq amxq"  # Use an app-specific password
+EMAIL_PASSWORD = "okcvabmojchqamxq"  # Use an app-specific password
 EMAIL_RECEIVER = "kamalakanta902@gmail.com"
 
 def fetch_internshala():
